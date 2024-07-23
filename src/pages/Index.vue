@@ -8,13 +8,14 @@
     <button @click="clearMessage">Clear</button>
     <h5 class="border">{{ message }}</h5>
   </q-page>
+
 </template>
 
 <script>
 export default {
   data() {
     return {
-      message: 'I love programing and my cats!'
+      message: 'I love programing and my cats! <3'
     }
   },
   methods:{
