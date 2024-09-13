@@ -1,6 +1,14 @@
-# Awessome-todo (awesome-todo)
+## Awesome Todo List com Vue.js e Quasar
 
-A Quasar Project
+Uma aplicação simples para gerenciar suas tarefas diárias, construída com Vue.js e Quasar Framework.
+O objetivo é o aprendizado e aprimoramento das habilidades nessas tecnologias e com a evolução do código modifica-lo para que se torne algo único e prático.
+No momento o projeto esta em fase de desenvolvimento e pretendo fazer o deploy em breve para simular atualizações que um sistema real recebe no cotidiano, tais como novas features para os usuários e o lançamento de versões.
+
+**Características:**
+
+* Crie, edite e delete tarefas.
+* Marque tarefas como concluídas.
+* Interface intuitiva e responsiva.
 
 ## Install the dependencies
 ```bash
