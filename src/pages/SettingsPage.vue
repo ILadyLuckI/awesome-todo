@@ -1,14 +1,14 @@
 <template>
     <q-page padding>
-    <p>Settings Page</p>
+        <p>Settings Page</p>
     </q-page>
 
 </template>
 
 <script>
-export default {
-  
-}
+    export default {
+    
+    }
 </script>
 
 <style>
