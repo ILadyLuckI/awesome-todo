@@ -10,6 +10,9 @@ No momento o projeto esta em fase de desenvolvimento e pretendo fazer o deploy e
 * Marque tarefas como concluídas.
 * Interface intuitiva e responsiva.
 
+<img src="https://raw.githubusercontent.com/ILadyLuckI/images/main/cap4.jpg" width="300px">
+<img src="https://raw.githubusercontent.com/ILadyLuckI/images/main/cap5.jpg" width="300px">
+
 ## Install the dependencies
 ```bash
 yarn
